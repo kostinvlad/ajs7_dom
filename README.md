@@ -1,1 +1,1 @@
-# ajs7_dom
+[![Build status](https://ci.appveyor.com/api/projects/status/5fsv1qlgo96cxvk7?svg=true)](https://ci.appveyor.com/project/kostinvlad/ajs7-dom)
